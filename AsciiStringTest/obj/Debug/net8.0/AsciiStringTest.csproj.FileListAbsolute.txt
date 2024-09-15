@@ -1,0 +1,14 @@
+/Users/phamthanhbang/Documents/AsciiStringTest/bin/Debug/net8.0/AsciiStringTest
+/Users/phamthanhbang/Documents/AsciiStringTest/bin/Debug/net8.0/AsciiStringTest.deps.json
+/Users/phamthanhbang/Documents/AsciiStringTest/bin/Debug/net8.0/AsciiStringTest.runtimeconfig.json
+/Users/phamthanhbang/Documents/AsciiStringTest/bin/Debug/net8.0/AsciiStringTest.dll
+/Users/phamthanhbang/Documents/AsciiStringTest/bin/Debug/net8.0/AsciiStringTest.pdb
+/Users/phamthanhbang/Documents/AsciiStringTest/obj/Debug/net8.0/AsciiStringTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phamthanhbang/Documents/AsciiStringTest/obj/Debug/net8.0/AsciiStringTest.AssemblyInfoInputs.cache
+/Users/phamthanhbang/Documents/AsciiStringTest/obj/Debug/net8.0/AsciiStringTest.AssemblyInfo.cs
+/Users/phamthanhbang/Documents/AsciiStringTest/obj/Debug/net8.0/AsciiStringTest.csproj.CoreCompileInputs.cache
+/Users/phamthanhbang/Documents/AsciiStringTest/obj/Debug/net8.0/AsciiStringTest.dll
+/Users/phamthanhbang/Documents/AsciiStringTest/obj/Debug/net8.0/refint/AsciiStringTest.dll
+/Users/phamthanhbang/Documents/AsciiStringTest/obj/Debug/net8.0/AsciiStringTest.pdb
+/Users/phamthanhbang/Documents/AsciiStringTest/obj/Debug/net8.0/AsciiStringTest.genruntimeconfig.cache
+/Users/phamthanhbang/Documents/AsciiStringTest/obj/Debug/net8.0/ref/AsciiStringTest.dll
